@@ -608,12 +608,9 @@ Utiliza las referencias de los breakpoints @media abajo */
 /*Tablet*/
 @media (max-width: 768px) {
     .title__container{
-        position: relative;
     }
 
     .title__profile{
-        position: absolute;
-        top: 0;
     }
     .experience__img{
         width: 30rem;
